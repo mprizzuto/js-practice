@@ -1,0 +1,9 @@
+inner-column {
+	display: block;
+}
+
+inner-column {
+	padding:  10px;
+	margin-right: auto;
+	margin-left: auto;
+}
