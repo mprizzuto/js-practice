@@ -1,7 +1,5 @@
 console.clear();
 
-console.clear();
-
 (function isAnagram(wordOne, wordTwo) {
   wordOne = prompt("type a word");
 
